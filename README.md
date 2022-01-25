@@ -4,8 +4,8 @@ Profiles for PowerShell Core.
 
 # Contents
 
-- Adds `function prompt` to modify PROMPT
-- Supports for uutils, almost aliases are ready to run
+- Uses an extension *Starship*. Its configuration is located in `/config/starship.toml`.
+- 100% interoperativity maybe (even if GNU/Linux)
 
 # License
 
